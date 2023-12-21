@@ -1,0 +1,14 @@
+.pink-box{
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+}
+.inner-box{
+    height: 60%;
+    width: 50%;
+    background-color: yellow;
+    text-align: left;
+}
+p {
+    text-align: right;
+}
